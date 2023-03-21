@@ -1,14 +1,14 @@
-## Welcome
+## Hi bozos
 
-Hello Welcome to my website, This site is were I post content on what I am learning and what projects I am working on. I am your average techie who wants to learn about how modern technologies work. There is so much information and knowledge out online for completely free. For example, I learned how to make websites from watching a couple youtube videos. I encourage you to learn somthing new today and you might find somthing interesting on my website.
+Hey bozos. The reason you see this cool person website is because you have some waste-of-space piece of junk tech that does not work. Here at Tech Rest., we fix that. From fans to computers, we can fix it. If we can't, your money back.
 
 ![profile picture](profilePicture.png)
 
-## Latest Posts
+## Latest Restorations
 
 [Learning Website Devlopment](/posts/learningwebdev/) 
 
 ## Links
 
-* [Github](https://github.com/YourAverageTechie)
+* [Github](https://github.com/YourAverageBozo)
 
